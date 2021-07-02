@@ -449,7 +449,7 @@ Particle.prototype = (function(o) {
 
     // GUI Control
     control = {
-        particleNum: 1
+        particleNum: 500
     };
 
 
