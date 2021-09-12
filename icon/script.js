@@ -50,7 +50,7 @@ function massPlot(){
   }
 }
 $(function(){
-    aw = ah = 480;
+    aw = ah = 512;
     s = aw / 5;
     map = new Array(5);
     for(var i = 0; i < map.length; i++){
