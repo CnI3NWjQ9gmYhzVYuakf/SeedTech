@@ -26,7 +26,7 @@ function pickColor(){
   return col;
 }
 function genRandom(){
-    $('#gen').val(Math.random() * 10000);
+    $('#gen').val(Math.random() * 69);
     console.log("Last value: " + $('#gen').val());
     updateListen();
 }
